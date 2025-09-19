@@ -1,2 +1,5 @@
 # My_first_repo1
 Learning GitHub with Devops 
+a=10
+b=20
+print(a+b)
